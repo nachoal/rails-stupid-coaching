@@ -1,0 +1,26 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+blockquote {
+  border-width: 0px;
+  border-left-width:10px; 
+  border-style: solid; 
+  border-color:grey; 
+  padding-left: 10px; 
+  font-size: 20px;
+}
+
+.answer {
+ background-color:#fffde1;
+}
+
+
+.form-button{
+  background-color: #337ab7;
+  border-style: none;
+  width: 80px;
+  height: 22px;
+  color: white;
+  font-weight: bolder;
+}
